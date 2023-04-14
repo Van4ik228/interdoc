@@ -758,7 +758,7 @@ ul.slick-dots {
 
 .callback-form .contact-form {
 	background-color: var(--main);
-	padding: 60px 150px;
+	padding: 60px 100px;
 	border-radius: 5px;
 	text-align: center;
 }
@@ -1300,6 +1300,9 @@ footer .contact-form button.filled-button:hover {
 		left: 30px;
 		top: 10px;
 	}
+	.callback-form .contact-form {
+		padding: 60px 30px;
+	}
 	.navbar .navbar-brand {
 		width: auto;
 	}
@@ -1319,6 +1322,7 @@ footer .contact-form button.filled-button:hover {
 	.navbar .navbar-nav .nav-item {
 		border-bottom: 1px solid #eee;
 	}
+	.contact-form
 	.navbar .navbar-nav .nav-item:last-child {
 		border-bottom: none;
 	}
